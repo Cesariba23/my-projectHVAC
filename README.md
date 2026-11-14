@@ -33,7 +33,7 @@ assets/img/       Logo, favicon, placeholder images (.svg)
 
 | What | Where | Find / replace |
 |---|---|---|
-| Phone numbers | `index.html` | Set to 33 1893 3647 (main) and 33 2833 4793 from the van. Confirm which one should take calls and WhatsApp |
+| Phone numbers | `index.html` | Set to 33 1893 3647 (main) and 33 1893 3647 from the van. Confirm which one should take calls and WhatsApp |
 | WhatsApp number | `script.js` | `WHATSAPP_NUMBER` |
 | Brands strip | `index.html` `.brands` | Confirm the brands they actually install |
 | Reviews | `index.html` `#resenas` | Real Google reviews are in. When new ones come in, copy a `<article class="review">` block and paste the text as written |
