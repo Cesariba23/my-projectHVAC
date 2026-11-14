@@ -1,7 +1,7 @@
 // CEI Climatización y Electricidad Ibarra — interacciones básicas
 
 // Número de WhatsApp para el formulario (código de país + número, sin espacios)
-const WHATSAPP_NUMBER = "523318933647";
+const WHATSAPP_NUMBER = "523323577394";
 
 // Header con fondo al hacer scroll
 const header = document.querySelector(".header");
